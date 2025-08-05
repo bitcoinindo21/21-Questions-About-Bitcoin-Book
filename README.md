@@ -9,4 +9,5 @@ English will be available once the proof reading is finalized.
 
 The book was released July 30, 2025. 
 
-![Uploading 21 Bitcoin FAQ Book mockup.png…]()
+<img width="2100" height="1400" alt="21 Bitcoin FAQ Book mockup" src="https://github.com/user-attachments/assets/4bd493c8-1efd-4db9-9ad7-172826b55197" />
+
