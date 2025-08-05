@@ -7,6 +7,8 @@ This is the manuscript for 21 Questions about Bitcoin
 There is the .pdf version as well as a link to the original canva file. Both avaiable in Indonesian language to downloade.
 English will be available once the proof reading is finalized.
 
+Link to editable Canva-file: https://www.canva.com/design/DAGrRGjZxA4/IYq95kORXvCH4mSPMrax7w/edit?utm_content=DAGrRGjZxA4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 The book was released July 30, 2025. 
 
 <img width="2100" height="1400" alt="21 Bitcoin FAQ Book mockup" src="https://github.com/user-attachments/assets/4bd493c8-1efd-4db9-9ad7-172826b55197" />
